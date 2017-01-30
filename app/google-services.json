@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "123572214513",
+    "firebase_url": "https://dushanberoutes.firebaseio.com",
+    "project_id": "dushanberoutes",
+    "storage_bucket": "dushanberoutes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123572214513:android:9bf71e8855cba271",
+        "android_client_info": {
+          "package_name": "com.example.mapsexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123572214513-l11g3odlnectqfca3glfnr2qhqiqosaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapsexample",
+            "certificate_hash": "4465B19A0F3E2F6A256C1645B8020B8B343F0B88"
+          }
+        },
+        {
+          "client_id": "123572214513-ovund843vsht09hc8f0qnommjctrklao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDmLYb3Y_gjfiTsFFpKodiO3jNZy5YUdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123572214513-ovund843vsht09hc8f0qnommjctrklao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
